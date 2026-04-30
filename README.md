@@ -2,7 +2,7 @@
 [![Ansible-lint rules explanation](https://img.shields.io/badge/Ansible--lint-rules-blue.svg)](https://docs.ansible.com/projects/lint/rules/)
 [![Discussions](https://img.shields.io/badge/Discussions-gray.svg)](https://forum.ansible.com/tag/ansible-lint)
 
-# Ansible-lint this is an edit test
+# Ansible-lint this is an edit test again
 
 `ansible-lint` checks playbooks for practices and behavior that could
 potentially be improved. As a community-backed project ansible-lint supports
@@ -58,7 +58,7 @@ All the arguments are optional:
 
 For more details, see [ansible-lint-action].
 
-# Communication
+# Communication and another edit
 
 Refer to the
 [Talk to us](https://docs.ansible.com/projects/lint/contributing/#talk-to-us)
