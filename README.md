@@ -58,7 +58,7 @@ All the arguments are optional:
 
 For more details, see [ansible-lint-action].
 
-# Communication
+# Communication and another edit
 
 Refer to the
 [Talk to us](https://docs.ansible.com/projects/lint/contributing/#talk-to-us)
